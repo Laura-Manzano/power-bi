@@ -8,3 +8,9 @@ Vendas de combustíveis no Brasil (1990-2023) : https://app.powerbi.com/Redirect
 ![2023-10-19-12-34-10](https://github.com/Laura-Manzano/power-bi/assets/108542290/7a6f8229-ae97-4ec6-9864-77fb20fbb932)
 
 
+Dashboard Analítico de Vendas Globais
+
+![2023-10-27-14-53-34](https://github.com/Laura-Manzano/power-bi/assets/108542290/28993534-3d80-4a43-a838-b4fe027b3bfd)
+
+
+
